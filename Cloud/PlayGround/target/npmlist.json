@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"playground","dependencies":{"@google-cloud/translate":{"version":"7.2.0"},"dotenv":{"version":"16.0.3"}}}

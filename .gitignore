@@ -1,0 +1,10 @@
+Cloud/Playground/node_modules/
+song-lyrics-translator/song-translator-react-app/node_modules/
+Cloud/.cache/
+Cloud/.m2/
+Cloud/.theia/
+Cloud/.npm/
+Cloud/PlayGround/cloud-sql-proxy/
+
+cloud-sql-proxy
+cloud_sql_proxy
